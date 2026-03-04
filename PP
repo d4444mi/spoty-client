@@ -1,0 +1,54 @@
+Privacy Policy
+Spoty Project
+Effective date: March 4, 2026
+
+1. Data We Collect
+What we do NOT collect:
+Name, email, or any personal information
+Device data, IP address, or location
+Cookies or tracking technologies
+In-app behavior
+Any other personal data
+
+2. Third-party services:
+Some features may use third-party services, such as Spotify OAuth login. In these cases:
+Authorization happens directly between you and the service.
+Spoty Project does not receive or store your credentials or personal information.
+Interactions with these services are governed by their own privacy policies.
+
+3. How We Use Data
+Since we do not collect personal data, Spoty Project does not:
+Sell data to third parties
+Use data for targeted ads
+Share information with partners or ad networks
+Build user profiles
+All activity stays on your device.
+
+4. Data Security
+We protect data by not collecting it.
+If any technical data is processed (e.g., logs for bug fixing), we commit to standard security measures: encryption, restricted access, and timely deletion.
+If you find a potential security issue, contact us at spotyproject@gmail.com.
+
+5. Your Rights
+
+GDPR (EU users):
+Even though Spoty Project does not collect personal data, EU users have rights including:
+Access, correction, deletion of personal data
+Data processing restrictions and portability
+Objection to certain processing
+Requests can be sent to spotyproject@gmail.com.
+
+CCPA (California residents):
+Know what personal data is collected (we do not collect)
+Request deletion
+Opt-out of data sales (we do not sell data)
+Non-discrimination for exercising rights
+
+6. Changes to This Policy
+We may update this Privacy Policy occasionally. Major changes will be communicated through the app or other channels. Continued use after updates constitutes acceptance of the new policy.
+
+7. Contact
+Questions or requests regarding privacy:
+Email: spotyproject@gmail.com
+
+NO RELATIONSHIP TO Spotify AB.
